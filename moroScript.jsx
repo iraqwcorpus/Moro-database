@@ -863,11 +863,11 @@
           return   <div className='ui text container'> 
 
 				
-          		<h1 className='ui dividing header'>Moro Story Corpus</h1>
+          		<h1 className='ui dividing header'>Iraqw Corpus</h1>
 
               <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img>
           
-          <p>This website contains a collection of texts and stories in the Moro language. Moro is a language of the Nuba Mountains of Sudan, where the Moro people have lived since ancient times. Moro is a Kordofanian language, a subgroup of the Niger-Congo language family. Through the texts on this page you can learn more about the Moro, their culture, and their traditional stories. </p> 
+          <p>Test. </p> 
           
            <p>This page is intended as a resource for Moro people as well as researchers who are interested in learning more about the Moro language. Written Moro is a mixture of dialects, but often closely resembles the Wërria dialect. As in all written Moro, tone is not marked in these stories.</p>
            
