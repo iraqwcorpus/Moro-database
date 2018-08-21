@@ -881,14 +881,14 @@
          	<h1 className='ui dividing header'>Project members</h1>
 
 
-			<h3> Angelo Naser (Author, Editor) </h3>
-        	<p> Born and raised in the village of Karkaria in the Nuba Mountains, Angelo now lives and works in Khartoum. Angelo is a member of the Moro Language Committee and is involved in the Moro literacy program. He works at the United Bible Society in Khartoum. </p> 
+			<h3> Maarten Mous </h3>
+        	<p> <a href="https://www.universiteitleiden.nl/en/staffmembers/maarten-mous#tab-1"Maarten </a> has studied the Iraqw language since completing his PhD in.... </p> 
 
-			<h3> Peter Jenks (Editor) </h3>
-        	<p> <a href="http://linguistics.berkeley.edu/~jenks/home.html">Peter</a> has studied the Moro language since 2005, much of his work in collaboration with the <a href='http://moro.ucsd.edu/'>Moro Language Project</a>. He is an Assistant Professor at UC Berkeley.</p> 
+			<h3> Amy Catling </h3>
+        	<p> ... </p> 
 
-			<h3> Hannah Sande (Editor) </h3>
-        	<p> <a href="http://linguistics.berkeley.edu/~hsande/">Hannah</a> is a PhD candidate in the UC Berkeley linguistics department. In addition to her work on Moro, Hannah has worked extensively on Guebie, an endangered Kru language spoken in the Ivory Coast. </p> 
+			<h3> Sandra Bleeker </h3>
+        	<p> ... </p> 
 
 			
 
