@@ -867,13 +867,15 @@
 
               <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img>
           
-          <p>Test. </p> 
+          <p>On this website, you can find several stories from Iraqw oral literature in text and audio, translated and transcribed.</p> 
           
-           <p>This page is intended as a resource for Moro people as well as researchers who are interested in learning more about the Moro language. Written Moro is a mixture of dialects, but often closely resembles the Wërria dialect. As in all written Moro, tone is not marked in these stories.</p>
+           <p>Iraqw is a language spoken in northern Tanzania by approximately half a million people. It is the largest southern Cushitic language, as its closest relatives, Gorwaa, Alagwa and Burunge, have approximately 15,000 speakers.</p>
            
-           <p>The development of this corpus was supported by a grant from the Hellman Fellows Fund.</p>
+           <p>Swahili is a second language for the vast majority of Iraqw speakers. Swahili is used in administration and schools, and Iraqw is used for all other domains - although hardly in written communication. The written material that is available in Iraqw is religious in nature. Some stories, riddles and other specimens of the rich, historical Iraqw verbal art are now also available in writing.</p>
              
-		  <p> test 2. </p>
+		  <p>The materials on this website were recorded between 1987 - 2018, in various locations around Mbulu and Kwermusl. Although they represent the traditional oral culture of the Iraqw, to some living there now, they may act as a reminder of the past. </p>
+		  
+		  <p>The purpose of this database is to allow people learn more about the Iraqw language, people and culture. </p>
 		  
 		  
          	<h1 className='ui dividing header'>Project members</h1>
