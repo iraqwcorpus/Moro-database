@@ -882,7 +882,7 @@
 
 
 			<h3> Maarten Mous </h3>
-        	<p> <a href="https://www.universiteitleiden.nl/en/staffmembers/maarten-mous#tab-1"Maarten </a> has studied the Iraqw language since completing his PhD in.... </p> 
+        	<p> <a href="https://www.universiteitleiden.nl/en/staffmembers/maarten-mous#tab-1">Maarten </a> has studied the Iraqw language since completing his PhD in.... </p> 
 
 			<h3> Amy Catling </h3>
         	<p> ... </p> 
