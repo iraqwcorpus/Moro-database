@@ -888,14 +888,7 @@
 			<h3> Hannah Sande (Editor) </h3>
         	<p> <a href="http://linguistics.berkeley.edu/~hsande/">Hannah</a> is a PhD candidate in the UC Berkeley linguistics department. In addition to her work on Moro, Hannah has worked extensively on Guebie, an endangered Kru language spoken in the Ivory Coast. </p> 
 
-			<h3> Marcus Ewert </h3>
-        	<p> <a href="http://www.marcushenryewert.com/#/">Marcus</a> is a software developer in the Bay Area who has provided assistance with several linguistic documentation projects.</p> 
-
-			<h3> Juwon Kim </h3>
-        	<p> UC Berkeley Class of 2018, Juwon is a double major in linguistics and computer science. </p> 
-
-			<h3> Maytas Monsereenusorn </h3>
-        	<p> UC Berkeley Class of 2016, Maytas is a double major in computer science and economics. </p> 
+			
 
           </div>
           }
